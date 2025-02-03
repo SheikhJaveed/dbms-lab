@@ -9,4 +9,3 @@
 ### Start up cmds for mongodb
 - mongosh --host 172.1.14.200 -u <username> --authenticationDatabase "<username>" -p
 - password - 5cs
-- 
